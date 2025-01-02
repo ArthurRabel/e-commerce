@@ -1,0 +1,12 @@
+{
+  "name": "e-commerce",
+  "version": "0.0.1",
+  "description": "A e-commerce platform leveraging modern technologies.",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "keywords": ["e-commerce", "platform", "modern", "technologies"],
+  "author": "Arthur Rabelo",
+  "license": "GPL-3.0"
+}
